@@ -1,4 +1,5 @@
 {
     "title": "Install Bootstrap 4 to a React project",
-    "description": "Add Bootstrap 4 to your React project to give your app a nice look."
+    "description": "Add Bootstrap 4 to your React project to give your app a nice look.",
+    "liveView": "www/index.html"
 }
