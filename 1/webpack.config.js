@@ -7,7 +7,7 @@ module.exports = {
         "./main.js",
     ],
     output: {
-        path: path.join(__dirname, "."),
+        path: path.join(__dirname, "www"),
         filename: "bundle.js",
     },
     module: {
@@ -42,6 +42,6 @@ module.exports = {
         ],
     },
     plugins: [
-        new ExtractTextPlugin("www/[name].css")
+        new ExtractTextPlugin("[name].css")
     ]
 };
