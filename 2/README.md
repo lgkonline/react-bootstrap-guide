@@ -6,7 +6,7 @@
 * src/main.scss
 
 ### 2. Update these files
-* src/main.css
+* src/main.js
 * www/index.html
 
 ### 3. Run these commands
